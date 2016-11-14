@@ -184,6 +184,7 @@
         <div class="col-sm-3 col-xs-6"> <img src="http://justbeauty-uk.s3.amazonaws.com/shillspoint2.jpg" class="img-responsive img-thumbnail img-circle margin" alt="Image" style="text-align: center; width: 60%;">
             <p><span style="line-height: 1.8;">Activated charcoal quickly and effectively pulls blackheads from the root and aids skin regeneration. Promotes healthy skin too!</span></p>
         </div>
+               <div class="clearfix visible-xs-block"></div>
         <div class="col-sm-3 col-xs-6"> <img src="http://justbeauty-uk.s3.amazonaws.com/shillspoint3.jpg" class="img-responsive img-thumbnail img-circle margin" style="text-align: center; width: 60%;">
             <p><span style="line-height: 1.8;">Brightening naturally-derived ingredients calendula, rosemary and grapefruit help restore a plump, youthful complexion.</span></p>
         </div>
